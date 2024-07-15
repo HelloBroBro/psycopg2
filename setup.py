@@ -41,7 +41,7 @@ import configparser
 # Take a look at https://www.python.org/dev/peps/pep-0440/
 # for a consistent versioning pattern.
 
-PSYCOPG_VERSION = '2.9.9'
+PSYCOPG_VERSION = '2.9.10.dev1'
 
 
 # note: if you are changing the list of supported Python version please fix
@@ -58,6 +58,7 @@ Programming Language :: Python :: 3.9
 Programming Language :: Python :: 3.10
 Programming Language :: Python :: 3.11
 Programming Language :: Python :: 3.12
+Programming Language :: Python :: 3.13
 Programming Language :: Python :: 3 :: Only
 Programming Language :: Python :: Implementation :: CPython
 Programming Language :: C
